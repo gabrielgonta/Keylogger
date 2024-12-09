@@ -66,7 +66,7 @@ This tool is intended exclusively for educational purposes and to help security 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/gabrielgonta/Keylogger?tab=MIT-1-ov-file).
+This project is licensed under the [Apache License](https://github.com/gabrielgonta/Keylogger?tab=Apache-2.0-1-ov-file).
 
 ## Authors
 
