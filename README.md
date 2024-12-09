@@ -64,6 +64,10 @@ Even though the script is designed for ethical testing purposes, its behavior ma
 
 This tool is intended exclusively for educational purposes and to help security professionals identify weaknesses in their systems. Unauthorized or malicious use is strictly prohibited.
 
+## License
+
+This project is licensed under the [MIT License](https://github.com/gabrielgonta/Keylogger?tab=MIT-1-ov-file).
+
 ## Authors
 
 * **Gabriel Gonta** - *Initial work* - [Keylogger](https://github.com/gabrielgonta/Keylogger.git)
