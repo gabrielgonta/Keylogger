@@ -1,4 +1,4 @@
-# 📬 Inputs To Mail - Security Testing Tool
+# 📬 Keylogger - Security Testing Tool
 
 ## Description
 
