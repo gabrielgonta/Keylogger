@@ -55,7 +55,9 @@ python3 keylogger.py
 ## Antivirus Test Results
 
 Even though the script is designed for ethical testing purposes, its behavior may trigger antivirus software. Here's an example of antivirus detections:
+
 ![github-small](/images/1.png)
+
 ![github-small](/images/2.png)
 
 ## Purpose and Ethical Use
